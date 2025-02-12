@@ -18,7 +18,7 @@ Bu projede kullanılan ana teknolojiler:
 - **JavaScript**: Dinamik özellikler ve etkileşim
 - **OpenWeather API**: Hava durumu verisi almak için API kullanımı
 
-## Pekiştirdiğim Konular
+## Derinlemesine Öğrendiğim Konular
 
 Bu projede geliştirdiğim bazı teknikler ve pekiştirdiğim konular şunlardır:
 
